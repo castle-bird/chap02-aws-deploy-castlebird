@@ -74,7 +74,7 @@
     }
   ],
   "family": "chap02-task-definition",
-  "executionRoleArn": "arn:aws:iam::851725437767:role/ecsTaskExecutionRole",
+  "executionRoleArn": "arn:aws:iam::745247898084:role/ecsTaskExecutionRole",
   "networkMode": "bridge",
   "volumes": [],
   "placementConstraints": [],
