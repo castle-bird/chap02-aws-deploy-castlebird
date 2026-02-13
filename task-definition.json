@@ -1,7 +1,7 @@
 {
   "containerDefinitions": [
     {
-      "name": "chap02-container",
+      "name": "chap02-container-castlebird",
       "image": "851725437767.dkr.ecr.ap-northeast-2.amazonaws.com/chap02-aws-deploy:latest@sha256:5858b2779c7bd3bf7b3386791b2663b4093895eb399f729c4703c3f8c582ff53",
       "cpu": 512,
       "memory": 307,
